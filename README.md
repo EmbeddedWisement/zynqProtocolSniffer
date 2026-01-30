@@ -18,6 +18,11 @@ sniff ethernet and wifi internet protocols over 10gbit. sniff and spooff all dat
 1- can spoofer port line
 2- can  spoofer port line
 
+1- type C intput port
+2- type c output port
+
+1- hdmi for viewing datas etc.. but
+2- hdmi for video , hdmi attackings..
 control on zynq7100  with al this modules analyze and editble rules in given on PS to PL. PL will open the analyzing ports and fully system values 
 
 more details will be come on on going  project same time.
